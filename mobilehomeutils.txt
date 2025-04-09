@@ -1,0 +1,25 @@
+Heat Electric 47 55 57 59 60
+Heat Oil 99 116 133 151 168
+Heat Propane 111 135 155 179 195
+Heat Gas 36 43 50 57 63
+Heat Wood 30 3 6 37 38 39
+Heat HeatPump 21 24 29 32 36
+Cooking Propane 12 12 20 28 36
+Cooking Electric 5 6 9 12 15
+Cooking NaturalGas 4 4 7 8 11
+HotWater Gas 11 14 20 25 32
+HotWater Oil 30 34 52 69 82
+HotWater Propane 36 44 60 80 99
+HotWater Electric 17 20 25 31 36
+Water Silverdale 102 102 102 102 102
+Water Poulsbo 100 102 125 143 171
+Water Bremerton 97 98 115 125 137
+Water PortOrchard 85 85 85 85 85 
+Water Bainbridge 91 92 109 126 143
+Sewer Silverdale 102 102 102 102 102
+Sewer Poulsbo 104 105 125 146 167
+Sewer Bremerton 97 98 115 124 137
+Sewer PortOrchard 85 85 85 85 85 
+Sewer Bainbridge 91 92 109 126 143
+Garbage 32 32 32 32 32
+Appliances 21 21 21 21 21
